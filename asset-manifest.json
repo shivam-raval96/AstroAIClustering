@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AstroAIClustering/static/css/main.3c7bd549.css",
+    "main.js": "/AstroAIClustering/static/js/main.f436ba13.js",
+    "index.html": "/AstroAIClustering/index.html",
+    "main.3c7bd549.css.map": "/AstroAIClustering/static/css/main.3c7bd549.css.map",
+    "main.f436ba13.js.map": "/AstroAIClustering/static/js/main.f436ba13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7bd549.css",
+    "static/js/main.f436ba13.js"
+  ]
+}
