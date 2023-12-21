@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AstroAIClustering/static/css/main.a2399a70.css",
-    "main.js": "/AstroAIClustering/static/js/main.5f6c8b32.js",
+    "main.js": "/AstroAIClustering/static/js/main.59b10d25.js",
     "static/media/csc.png": "/AstroAIClustering/static/media/csc.32eef6aa2a779e0a69c4.png",
     "static/media/backgrd.jpeg": "/AstroAIClustering/static/media/backgrd.0be16acf96de80ff31e8.jpeg",
     "index.html": "/AstroAIClustering/index.html",
     "main.a2399a70.css.map": "/AstroAIClustering/static/css/main.a2399a70.css.map",
-    "main.5f6c8b32.js.map": "/AstroAIClustering/static/js/main.5f6c8b32.js.map"
+    "main.59b10d25.js.map": "/AstroAIClustering/static/js/main.59b10d25.js.map"
   },
   "entrypoints": [
     "static/css/main.a2399a70.css",
-    "static/js/main.5f6c8b32.js"
+    "static/js/main.59b10d25.js"
   ]
 }
